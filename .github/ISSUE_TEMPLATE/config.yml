@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+    - name: Twitter
+      url: https://twitter.com/shyfoxstudio
+      about: Follow for updates or ask questions on Twitter.
+    - name: Bluesky
+      url: https://bsky.app/profile/shyfoxstudio.bsky.social
+      about: Follow for updates or ask questions on Bluesky.
